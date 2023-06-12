@@ -1,5 +1,6 @@
 # BE-IT-DL
-This repository contains Deep Learning assignments according to SPPU 2019 Pattern
+
+## This repository contains Deep Learning assignments according to SPPU 2019 Pattern
 
 
 | Assignment No. | Problem Statement  |
